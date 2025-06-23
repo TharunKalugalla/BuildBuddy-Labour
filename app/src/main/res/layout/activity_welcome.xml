@@ -33,7 +33,6 @@
         android:text="Welcome Build \nBuddy!"
         android:textAlignment="center"
         android:textColor="#FAF5F5"
-
         android:textFontWeight="900"
         android:textSize="36dp"
         app:layout_constraintBottom_toTopOf="@+id/imageView2"
