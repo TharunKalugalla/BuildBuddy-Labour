@@ -24,6 +24,7 @@ firebase-auth = { group = "com.google.firebase", name = "firebase-auth", version
 firebase-database = { group = "com.google.firebase", name = "firebase-database", version.ref = "firebaseDatabase" }
 firebase-firestore = { group = "com.google.firebase", name = "firebase-firestore", version.ref = "firebaseFirestore" }
 biometric = { group = "androidx.biometric", name = "biometric", version = "1.2.0-alpha05" }
+maps = { group = "com.google.android.gms", name = "play-services-maps", version = "19.2.0" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
